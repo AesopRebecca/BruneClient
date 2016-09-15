@@ -1,0 +1,38 @@
+Brunelleschi 3D Client v0.0.2.2.4
+9/15/2016
+*Bonds
+  *BondsUI added to Wardrobe
+      *Bonds trigger added to Wardrobe Shelf as dolls
+  *Bonds Ui added to Character Sheet of Main Scene
+      *Relationships tab now points to Bonds UI instead of web view 
+  *Available bond categories include Friends, Loves, Fealty, Enemies and Group
+
+Brunelleschi 3D Client v0.0.2.2.3
+9/12/2016
+*Actions
+  *Actions UI added to Wardrobe
+      *Actions trigger added to Wardrobe Shelf as horses
+      *Actions Load Progress on lower cabinet
+  *Actions UI added to Character Sheet of Main Scene
+      *Actions tab added to character sheet
+      *Actions Load Progress appears below Actions tab
+  *Actions with 0 to 1 layer of targets available
+  
+Brunelleschi 3D Client v0.0.2.2.2
+8/17/2016
+*Character Sheet UI Upgrade
+  *New wood UI theme added to char sheet Main
+
+Brunelleschi 3D Client v0.0.2.2.1
+8/10/2016
+*Current Income Data
+  *Income tab now shows data on current Income building settings
+
+Brunelleschi 3D Client v0.0.2.2
+8/3/2016
+*Current Building Data
+  *Server now provides data on current building settings to the building owner.
+  *Residents tab now shows current rent setting.
+  *Wages tab now shows current salaries by population type.
+  *Output tab lists current output setting
+*Minor Bug Fixes
