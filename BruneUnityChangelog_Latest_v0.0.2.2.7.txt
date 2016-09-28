@@ -1,4 +1,4 @@
-Brunelleschi 3D Client v0.0.2.2.6
+Brunelleschi 3D Client v0.0.2.2.7
 9/27/2016
 *Construction Queue UI
   * Left-hand sliding UI Panel
